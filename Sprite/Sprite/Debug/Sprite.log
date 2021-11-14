@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\unwanted\5 sem\osisp\OSaSP1\Sprite\Sprite\main.cpp(204): warning C4715: MyWindowProc: значение возвращается не при всех путях выполнения
+  Sprite.vcxproj -> D:\unwanted\5 sem\osisp\OSaSP1\Sprite\Debug\Sprite.exe
